@@ -4,6 +4,8 @@ This takes a variation of Jim Wendler's 5/3/1 and uses Ruby to generate a GitHub
 
 The idea is to take the output of the `5-3-1.rb` and create an issue for the first month. You'll end up with a todo list schedule like this:
 
+> **Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
+
 ![Month 1](https://cloud.githubusercontent.com/assets/475255/2621920/ac606394-bc77-11e3-96e9-851cb625712e.png)
 
 Once the month is over, reassess your 1RMs, re-run the script and make and issue for month two.
