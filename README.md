@@ -17,7 +17,7 @@ Once the month is over, reassess your 1RMs, re-run the script and make an issue 
 
 ## Usage
 
-```bash
+```shell
 sh 5-3-1.sh
 ```
 
