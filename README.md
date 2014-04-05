@@ -21,11 +21,11 @@ You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and De
 The output will be similar to the below:
 
 ```markdown
-Your Bench Press theoretical 1RM: 66.5kg
+## Your 1RMs
 
-Your Back Squat theoretical 1RM: 80kg
-
-Your Deadlift theoretical 1RM: 100kg
+* Bench Press theoretical 1RM: 66.5kg
+* Back Squat theoretical 1RM: 80kg
+* Deadlift theoretical 1RM: 100kg
 
 ## Week 1
 
