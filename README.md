@@ -2,7 +2,7 @@
 
 This takes a variation of Jim Wendler's 5/3/1 and uses Ruby to generate a GitHub Flavoured Markdown todo list schedule for Bench Press, Back Squat and Deadlift.
 
-The idea is to take the output of the `5-3-1.rb` and create an issue for the first month. You'll end up with a todo list schedule like this:
+The idea is to take the output of the `5-3-1.rb` and create an [issue](https://github.com/andytlr/5-3-1/issues/1) for the first month. You'll end up with a todo list schedule like this:
 
 > **Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
 
