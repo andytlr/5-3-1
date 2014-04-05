@@ -36,4 +36,4 @@ You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and De
 
 ![531 on phone](https://cloud.githubusercontent.com/assets/475255/2623804/b53aad62-bd08-11e3-91c7-88981a6bfda5.jpg)
 
-> **Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
+**Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
