@@ -24,9 +24,10 @@ output = File.open( "schedule.md", "w" )
 output <<
 
 "## Your 1RMs\n\n"\
-"* Bench Press theoretical 1RM: #{bp100}kg\n"\
-"* Back Squat theoretical 1RM: #{bs100}kg\n"\
-"* Deadlift theoretical 1RM: #{dl100}kg\n\n"\
+"The following schedule is based on 90% of these theoretical 1RMs:\n\n"\
+"| Bench Press    | Back Squat     | Deadlift       |\n"\
+"| :------------- | :------------- | :------------- |\n"\
+"| #{bp100}kg     | #{bs100}kg     | #{dl100}kg     |\n\n"\
 "## Week 1\n\n"\
 "### Monday: Bench Press\n\n"\
 "- [ ] #{65.po(bp_orm)}kg × 5\n"\
