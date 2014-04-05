@@ -6,13 +6,15 @@ The idea is to take the output of the `5-3-1.rb` and create an issue for the fir
 
 ![Month 1](https://cloud.githubusercontent.com/assets/475255/2621920/ac606394-bc77-11e3-96e9-851cb625712e.png)
 
+Once the month is over, reassess your 1RMs, re-run the script and make and issue for month two.
+
 ### The Script
 
 ```bash
 ruby 5-3-1.rb
 ```
 
-You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and Deadlift. There are shitloads of [1RM calculators](http://www.exrx.net/Calculators/OneRepMax.html) to work out your theoretical 1RM.
+You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and Deadlift. There are shitloads of [1RM calculators](http://www.exrx.net/Calculators/OneRepMax.html) to help you work this out.
 
 **1RM** = 1 Rep Max. **AMRAP** = As Many Reps As Possible.
 
