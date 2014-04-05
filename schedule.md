@@ -1,35 +1,8 @@
-# 5-3-1 in GitHub
-
-This takes a variation of Jim Wendler's 5/3/1 and uses Ruby to generate a GitHub Flavoured Markdown todo list schedule for Bench Press, Back Squat and Deadlift.
-
-The idea is to take the output of the `5-3-1.rb` and create an [issue](https://github.com/andytlr/5-3-1/issues/1) for the first month. You'll end up with a todo list schedule like this:
-
-> **Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
-
-![Month 1](https://cloud.githubusercontent.com/assets/475255/2621920/ac606394-bc77-11e3-96e9-851cb625712e.png)
-
-Once the month is over, reassess your 1RMs, re-run the script and make and issue for month two.
-
-### The Script
-
-```bash
-sh 5-3-1.sh
-```
-
-This will run the ruby script, output to `schedule.md` and copy the contents to the clipboard; ready to paste into a GH issue.
-
-You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and Deadlift. There are shitloads of [1RM calculators](http://www.exrx.net/Calculators/OneRepMax.html) to help you work this out.
-
-**1RM** = 1 Rep Max. **AMRAP** = As Many Reps As Possible.
-
-The output will be similar to the below:
-
-```markdown
 ## Your 1RMs
 
 * Bench Press theoretical 1RM: 66.5kg
-* Back Squat theoretical 1RM: 80kg
-* Deadlift theoretical 1RM: 100kg
+* Back Squat theoretical 1RM: 80.0kg
+* Deadlift theoretical 1RM: 100.0kg
 
 ## Week 1
 
@@ -170,4 +143,3 @@ The output will be similar to the below:
 - [ ] 45kg × 10
 - [ ] 45kg × 10
 - [ ] 45kg × 10
-```
