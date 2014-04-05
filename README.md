@@ -9,7 +9,7 @@ Once the month is over, reassess your 1RMs, re-run the script and make an issue 
 ### Based on
 
 |            | Set 1   | Set 2   | Set 3           | Assistance     |
-| ---------- | ------- | ------- | --------------- | -------------- |
+| :--------- | :------ | :------ | :-------------- | :------------- |
 | **Week 1** | 65% × 5 | 75% × 5 | 85% × 5 + AMRAP | (50% × 10) × 5 |
 | **Week 2** | 70% × 3 | 80% × 3 | 90% × 3 + AMRAP | (50% × 10) × 5 |
 | **Week 3** | 75% × 5 | 85% × 3 | 95% × 1 + AMRAP | (50% × 10) × 5 |
