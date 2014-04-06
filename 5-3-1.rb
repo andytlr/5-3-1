@@ -2,12 +2,12 @@
 # encoding: utf-8
 
 class Numeric
-  def round_to(divider)
+  def round_to_increments_of(divider)
     divider * ((self.to_f / divider).round)
   end
 
   def po(n)
-    (((self.to_f / 100.0) * n.to_f).round_to(2.5)).to_s.gsub(".0", "")
+    (((self.to_f / 100.0) * n.to_f).round_to_increments_of(2.5)).to_s.gsub(".0", "")
   end
 end
 

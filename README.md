@@ -15,6 +15,8 @@ Once the month is over, reassess your 1RMs, re-run the script and make an issue 
 | **Week 3** | 5 × 75% | 3 × 85% | 1 × 95% + AMRAP | (10 × 50%) × 5 |
 | **Week 4** | 5 × 40% | 5 × 50% | 5 × 60% + AMRAP | (10 × 50%) × 5 |
 
+It rounds the result to the nearest 2.5kg so you can use 1.25kg weights on either side.
+
 ## Usage
 
 ```shell
