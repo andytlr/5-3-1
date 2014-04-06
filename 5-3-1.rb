@@ -7,7 +7,7 @@ class Numeric
   end
 
   def po(n)
-    ((self.to_f / 100.0) * n.to_f).round_to(2.5)
+    (((self.to_f / 100.0) * n.to_f).round_to(2.5)).to_s.gsub(".0", "")
   end
 end
 
