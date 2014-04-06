@@ -18,7 +18,7 @@ Once the month is over, reassess your 1RMs, re-run the script and make an issue 
 ## Usage
 
 ```shell
-sh 5-3-1.sh
+ruby 5-3-1.rb
 ```
 
 This will run the ruby script, output to `schedule.md` and copy the contents to the clipboard; ready to paste into a GH issue.

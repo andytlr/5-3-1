@@ -2,8 +2,12 @@
 # encoding: utf-8
 
 class Numeric
+  def round_to(divider)
+    divider * ((self.to_f / divider).round)
+  end
+
   def po(n)
-    ((self.to_f / 100.0) * n.to_f).round
+    ((self.to_f / 100.0) * n.to_f).round_to(2.5)
   end
 end
 
@@ -22,7 +26,6 @@ dl_orm = 90.po(dl100)
 
 output = File.open( "schedule.md", "w" )
 output <<
-
 "## Your 1RMs\n\n"\
 "The following schedule is based on 90% of these theoretical 1RMs:\n\n"\
 "| Bench Press    | Back Squat     | Deadlift       |\n"\
@@ -142,3 +145,5 @@ output <<
 "- [ ] 10 × #{50.po(dl_orm)}kg\n"\
 
 output.close
+
+`cat schedule.md | pbcopy`
