@@ -41,3 +41,9 @@ You'll be asked to enter your theoretical 1RM for Bench Press, Back Squat and De
 ![531 on phone](https://cloud.githubusercontent.com/assets/475255/2627080/2e21b4fa-bdf9-11e3-8db3-0f1e21b78cd8.png)
 
 **Note:** I initially thought this would be great because you could tick off each item in GitHub's mobile site. But it appears as though you can't. You need to use the 'Desktop Version'. Presumably this is a bug.
+
+## Specs
+
+```shell
+rspec spec/helpers_spec.rb
+```
