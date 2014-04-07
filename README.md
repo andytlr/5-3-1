@@ -1,4 +1,4 @@
-# 5-3-1 in GitHub
+# 5/3/1 in GitHub
 
 This takes a variation of Jim Wendler's 5/3/1 and uses Ruby to generate a GitHub Flavoured Markdown todo list schedule for Bench Press, Back Squat and Deadlift.
 
