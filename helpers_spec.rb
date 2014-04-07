@@ -1,4 +1,4 @@
-require_relative '5-3-1'
+require_relative 'helpers'
 
 describe Numeric do
 
