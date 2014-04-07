@@ -1,7 +1,7 @@
-require '5-3-1'
+require_relative '5-3-1'
 
 describe Numeric do
-  
+
   describe "#round_to_increment_of" do
     it "rounds 66.5 to an increment of 2.5" do
       66.5.round_to_increment_of(2.5).should eql 67.5
@@ -20,8 +20,8 @@ describe Numeric do
   end
 
   describe "#percent_of" do
-    it "gets a percentage" do
-      50.percent_of(100).should eql 50
+    it "gets a percentage as a floating point number" do
+      50.percent_of(100).should eql 50.0
     end
   end
 
