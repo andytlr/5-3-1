@@ -2,9 +2,9 @@
 
 The following schedule is based on 90% of these theoretical 1RMs:
 
-| Bench Press    | Back Squat     | Deadlift       |
-| :------------- | :------------- | :------------- |
-| 66.5kg     | 80.0kg     | 100.0kg     |
+| Bench Press             | Back Squat              | Deadlift                |
+| :---------------------- | :---------------------- | :---------------------- |
+| 66.5kg | 80.0kg | 100.0kg |
 
 ## Week 1
 
@@ -23,12 +23,12 @@ The following schedule is based on 90% of these theoretical 1RMs:
 
 - [ ] 5 × 47.5kg
 - [ ] 5 × 55kg
-- [ ] 5 × 62.5kg + AMRAP
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
+- [ ] 5 × 60kg + AMRAP
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
 
 ### Friday: Deadlift
 
@@ -59,11 +59,11 @@ The following schedule is based on 90% of these theoretical 1RMs:
 - [ ] 3 × 50kg
 - [ ] 3 × 57.5kg
 - [ ] 3 × 65kg + AMRAP
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
 
 ### Friday: Deadlift
 
@@ -92,13 +92,13 @@ The following schedule is based on 90% of these theoretical 1RMs:
 ### Wednesday: Back Squat
 
 - [ ] 5 × 55kg
-- [ ] 3 × 62.5kg
-- [ ] 1 × 70kg + AMRAP
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
+- [ ] 3 × 60kg
+- [ ] 1 × 67.5kg + AMRAP
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
 
 ### Friday: Deadlift
 
@@ -127,13 +127,13 @@ The following schedule is based on 90% of these theoretical 1RMs:
 ### Wednesday: Back Squat
 
 - [ ] 5 × 30kg
-- [ ] 5 × 37.5kg
+- [ ] 5 × 35kg
 - [ ] 5 × 42.5kg + AMRAP
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
-- [ ] 10 × 37.5kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
+- [ ] 10 × 35kg
 
 ### Friday: Deadlift
 
