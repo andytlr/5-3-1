@@ -1,7 +1,7 @@
 #!/bin/env ruby
 # encoding: utf-8
 
-require_relative 'helpers'
+require_relative 'lib/helpers'
 
 puts "Enter your theoretical 1RMs"
 puts
